@@ -1,0 +1,19 @@
+//加错了，怪不好意思的
+
+git add
+//添加到缓存区
+git status
+//查看当前状态
+git commit -m "注释内容//还得写清楚"
+//提交至版本库
+git log
+//显示日志
+git log --pretty=oneline
+//显示日志，但只显示一行
+git reset --hard
+//回退
+git reflog
+//回到过去后，查看最新的commit id
+git push
+//提交到线上仓库
+403-->原因：不是任何人都能提交
